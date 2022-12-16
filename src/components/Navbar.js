@@ -1,8 +1,7 @@
 import React, { useState } from "react"
-import {Link, NavLink, Navlink} from "react-router-dom";
+import {Link, NavLink} from "react-router-dom";
 import "./Navbar.css"
 import {FaBars, FaTimes} from "react-icons/fa"
-import {iconContext} from "react-icons/lib"
 
 
 
